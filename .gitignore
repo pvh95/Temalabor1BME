@@ -1,1 +1,15 @@
-dataset/
+# The Gitignore file 
+
+# Mac system file;
+.DS_Store
+
+# Things you don't want it to be included in your local git 
+## or remote git (aka GitHub)
+orig_csv/
+preprocessed_popdata/
+raw_popdata/
+datatype.csv/
+election.csv/
+export.csv/
+geoname.csv/
+
