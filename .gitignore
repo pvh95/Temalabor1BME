@@ -8,8 +8,8 @@
 orig_csv/
 preprocessed_popdata/
 raw_popdata/
-datatype.csv/
-election.csv/
-export.csv/
-geoname.csv/
+datatype.csv
+election.csv
+export.csv
+geoname.csv
 
